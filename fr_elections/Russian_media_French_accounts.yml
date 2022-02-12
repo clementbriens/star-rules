@@ -3,10 +3,10 @@ description: Find tweets mentioning Russian media platforms' Twitter accounts
 author: clementbriens
 reference: https://medium.com/dfrlab/the-kremlins-audience-in-france-884a80515f8b
 detection:
-  mention:
+  mentions:
     - RTenfrancais
     - Sputnik_fr
   strings:
     - Sputnik
     - RussiaToday
-  condition: 1 of mention or 1 of strings
+  condition: 1 of mentions or 1 of strings

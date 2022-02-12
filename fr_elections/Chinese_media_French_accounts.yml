@@ -1,7 +1,8 @@
 title: Chinese media French accounts
 description: Find tweets mentioning Chinese media platforms' Twitter accounts
 author: clementbriens
-  mention:
+detection:
+  mentions:
     - CGTNFrancais
     - CGTNEurope
     - french_renmin
@@ -12,5 +13,4 @@ author: clementbriens
     - CGTN
     - Quotidien du Peuple
     - Chine Nouvelle
-
-  condition: 1 of mention or 1 of strings
+  condition: 1 of mentions or 1 of strings
