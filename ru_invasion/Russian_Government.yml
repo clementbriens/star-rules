@@ -1,0 +1,30 @@
+title: Tweets mentioning Russian Government Accounts
+description: Find tweets mentioning Russian government' Twitter accounts
+author: clementbriens
+detection:
+  mentions:
+    - GovernmentRF
+    - mfa_russia
+    - Pravitelstvo
+    - MedvedevRussiaE
+    - MedvedevRussia
+    - moscowgov
+    - russia
+    - mod_russia
+    - RussianEmbassy
+    - RusEmbUSA
+    - rusembnz
+    - RussianEmbassyC
+    - RusEmbSwe
+    - rusemb_pl
+    - RussianEmbFinla
+    - rusembassynl
+    - RusEmbEst
+    - KremlinRussia_E
+    - EmbassyofRussia
+    - AmbrusSlo
+    - Rus_Emb_Ireland
+    - Dpol_un
+    - PMSimferopol
+
+  condition: 1 of mentions

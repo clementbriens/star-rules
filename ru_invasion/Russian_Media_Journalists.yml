@@ -1,0 +1,36 @@
+title: Tweets mentioning Russian Media or Journalist Accounts
+description: Find tweets mentioning Russian state-affiliated media platforms' and their journalists' Twitter accounts
+author: clementbriens
+detection:
+  mentions:
+    - RT_com
+    - SputnikInt
+    - rt_sputnik
+    - rt_play
+    - RTUKnews
+    - tassagency_en
+    - russiabeyond
+    - redfishstream
+    - BolotskySputnik
+    - InQuestionRT
+    - MuradGazdiev
+    - Ruptly
+    - calebmaupin
+    - afshinattansi
+    - RachBlevins
+    - russiabeyond
+    - LubnaHamdan0
+    - richimedhurst
+    - maitreyabhakal
+    - RTcreativeLab
+    - CDubenskij_RT
+    - RuptlyVU
+    - Renegade_Inc
+    - 27khv
+
+  strings:
+    - Sputnik
+    - Russia Today
+    - TASS
+
+  condition: 1 of mentions or 1 of strings
