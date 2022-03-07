@@ -3,7 +3,9 @@ description: Find accounts that have a high volume of tweets relative to their c
 author: clementbriens
 detection:
   tweets_per_day:
-    - min 1000
+    - min 500
+    - max 1000
   tweets_per_week:
-    - min 7000
+    - min 3500
+    - max 7000
   condition: all of tweets_per_day or all of tweets_per_week
