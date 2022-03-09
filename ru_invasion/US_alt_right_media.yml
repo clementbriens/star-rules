@@ -1,0 +1,14 @@
+title: US Alt Right Media
+description: Find accounts sharing links to US Alt Right Media
+author: clementbriens
+detection:
+  strings:
+    - breitbart.com
+    - spectator.org
+    - dailywire.com
+    - infowars.com
+    - thenationalpulse.com
+    - oann.com
+    - theblaze.com
+    - newsmax.com
+  condition: 1 of strings

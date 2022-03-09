@@ -1,0 +1,13 @@
+title: US Alt Tech Platforms
+description: Find accounts sharing links to US Alt Tech Platforms
+author: clementbriens
+detection:
+  strings:
+    - gab.com
+    - parler.com
+    - bitchute.com
+    - dlive.tv
+    - odysee.com
+    - rumble.com
+    - 4chan.org
+  condition: 1 of strings
