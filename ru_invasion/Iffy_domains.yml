@@ -4,573 +4,573 @@ author: clementbriens
 reference: https://iffy.news/index/
 detection:
   strings:
-    -afn.net
-    -alphanews.org
-    -altleft.news
-    -americanlibertyemail.com
-    -amg-news.com
-    -beachbroadcastnews.com
-    -bonsens.info
-    -breakingnews247.net
-    -cnnsofake.news
-    -dailymail.co.uk
-    -defconnews.com
-    -defendingtherepublic.org
-    -elizabethjohnston.org
-    -homevaccineeducationnetwork.com
-    -jedanews.com
-    -mainstreamfakemedia.com
-    -micdroppolitics.com
-    -nationalinsiders.com
-    -newsexaminer.net
-    -realconservativesunite.com
-    -reformedmedia.net
-    -rodong.rep.kp
-    -roguereview.net
-    -sonsoflibertymedia.com
-    -thefullertoninformer.com
-    -thepuristonline.com
-    -theragingpatriot.org
-    -vaccinesafety.info
-    -westernjournal.com/commentary
-    -worldgreynews.com
-    -worldlifestyle.com
-    -12minutos.com
-    -79days.news
-    -anyavien.com
-    -askingangels.com
-    -beckernews.com
-    -conservativebeaver.com
-    -conspiracydailyupdate.com
-    -dailyheadlines.net
-    -dailyoccupation.com
-    -dailysurge.com
-    -dataasylum.com
-    -davidharrisjr.com
-    -distributednews.com
-    -echocheck.org
-    -empireherald.com
-    -en-volve.com
-    -explainlife.com
-    -ilovemyfreedom.org
-    -lindelltv.com
-    -medicalkidnap.com
-    -newswars.com
-    -politicsonline.net
-    -rightwingtribune.com
-    -sheepkillers.com
-    -technocracy.news
-    -thedcpatriot.com
-    -thelaughclub.net
-    -themillenniumreport.com
-    -therundownlive.com
-    -thetruereporter.com
-    -thewashingtonstandard.com
-    -thinkamericana.com
-    -torontotoday.net
-    -uschronicle.com
-    -vaccinesrevealed.com
-    -vaxxter.com
-    -viralnewsnetwork.net
-    -yesimright.com
-    -truepundit.com
-    -conservativedailypost.com
-    -themindunleashed.com
-    -lesmoutonsrebelles.com
-    -digifection.com
-    -gellerreport.com
-    -patriotfront.us
-    -freedomdaily.com
-    -christiansfortruth.com
-    -vactruth.com
-    -redstatewatcher.com
-    -now8news.com
-    -dailybuzzlive.com
-    -bestnewshere.com
-    -newsfeedhunter.com
-    -truthandaction.org
-    -naturalnews.com
-    -actionnews3.com
-    -awarenessact.com
-    -bigleaguepolitics.com
-    -neonnettle.com
-    -getholistichealth.com
-    -newsview.gr
-    -stateofthenation2012.com
-    -newspunch.com
-    -barenakedislam.com
-    -notallowedto.com
-    -thecommonsenseshow.com
-    -corbettreport.com
-    -fellowshipoftheminds.com
-    -ripostelaique.com
-    -100percentfedup.com
-    -greatreject.org
-    -cityworldnews.com
-    -prntly.com
-    -summit.news
-    -dcgazette.com
-    -bb4sp.com
-    -illuminatiwatcher.com
-    -redice.tv
-    -infowars.com
-    -thegatewaypundit.com
-    -russia-insider.com
-    -banned.video
-    -csglobe.com
-    -theamericanmirror.com
-    -wakingtimes.com
-    -patriots4truth.org
-    -healthnutnews.com
-    -healthy-holistic-living.com
-    -informationliberation.com
-    -brandnewtube.com
-    -newstarget.com
-    -clashdaily.com
-    -santeplusmag.com
-    -cap-news.com
-    -beforeitsnews.com
-    -allnewspipeline.com
-    -friatider.se
-    -realclimatescience.com
-    -revolutionradio.org
-    -bluntforcetruth.com
-    -swarajyamag.com
-    -naturalnewsblogs.com
-    -thelibertybeacon.com
-    -rumble.com
-    -sott.net
-    -shoebat.com
-    -djhjmedia.com
-    -zerohedge.com
-    -theconservativetreehouse.com
-    -activistpost.com
-    -davidicke.com
-    -childrenshealthdefense.org
-    -bitchute.com
-    -qanon.pub
-    -disclose.tv
-    -hangthebankers.com
-    -globalresearch.ca
-    -vigilantcitizen.com
-    -brighteon.com
-    -americasfreedomfighters.com
-    -usasupreme.com
-    -conservativepost.com
-    -thetruthseeker.co.uk
-    -rushlimbaugh.com
-    -healthimpactnews.com
-    -notrickszone.com
-    -worldtruth.tv
-    -pravdareport.com
-    -lifenews.com
-    -prageru.com
-    -sickchirpse.com
-    -teaparty.org
-    -parler.com
-    -frontpagemag.com
-    -thetruthaboutcancer.com
-    -dailyhealthpost.com
-    -afa.net
-    -americanthinker.com
-    -thefederalistpapers.org
-    -cnsnews.com
-    -madworldnews.com
-    -nationalfile.com
-    -nationalenquirer.com
-    -blackgenocide.org
-    -americasfrontlinedoctors.org
-    -libertyvideos.org
-    -godlikeproductions.com
-    -nowtheendbegins.com
-    -intellihub.com
-    -patribotics.blog
-    -aapsonline.org
-    -thinkingmomsrevolution.com
-    -greenmedinfo.com
-    -canadafreepress.com
-    -dcclothesline.com
-    -geoengineeringwatch.org
-    -pakalertpress.com
-    -britainfirst.org
-    -americamaxnews.com
-    -americanconservativemovement.com
-    -censored.news
-    -free-speechfront.info
-    -freedomfirstnetwork.com
-    -merica1st.com
-    -newshourfirst.com
-    -npr.news
-    -personalinterpretation.com
-    -political-discussion.com
-    -randpaul.news
-    -speech-point.com
-    -supportisraelnow.com
-    -thecoloradoherald.com
-    -thepatriotnation.net
-    -thetruthvoice.net
-    -thevaccinereaction.org
-    -x22report.com
-    -skeptiko.com
-    -conservativeplaylist.com
-    -uncoverdc.com
-    -noqreport.com
-    -gnews.org
-    -acallforanuprising.com
-    -donaldjtrump.com
-    -gettr.com
-    -redvoicemedia.com
-    -halturnerradioshow.com
-    -humansarefree.com
-    -wnd.com
-    -covid19criticalcare.com
-    -dailystormer.su
-    -realfarmacy.com
-    -collective-evolution.com
-    -natall.com
-    -fromthetrenchesworldreport.com
-    -breaking911.com
-    -snopes.news
-    -unclesamsmisguidedchildren.com
-    -whatreallyhappened.com
-    -thefreethoughtproject.com
-    -infiniteunknown.net
-    -knowledgeoftoday.org
-    -usahitman.com
-    -vdare.com
-    -theautomaticearth.com
-    -assassinationscience.com
-    -oathkeepers.org
-    -altermedzentrum.com
-    -science.news
-    -snanews.de
-    -tpusa.com
-    -stormcloudsgathering.com
-    -whydontyoutrythis.com
-    -nationalvanguard.org
-    -americansfortruth.com
-    -theduran.com
-    -americanfreepress.net
-    -concernedwomen.org
-    -oann.com
-    -stormfront.org
-    -en.metapedia.org
-    -veteranstoday.com
-    -jesus-is-savior.com
-    -wattsupwiththat.com
-    -freedomainradio.com
-    -healthyfoodhouse.com
-    -gulagbound.com
-    -nvic.org
-    -sanevax.org
-    -shtfplan.com
-    -takimag.com
-    -trueactivist.com
-    -thealternativedaily.com
-    -thedailysheeple.com
-    -progressivestoday.com
-    -unz.com
-    -heartland.org
-    -libertybell.com
-    -rsbnetwork.com
-    -thetruedefender.com
-    -presstv.com
-    -doctors4covidethics.org
-    -anonhq.com
-    -newnation.org
-    -ihr.org
-    -gmo.news
-    -therightstuff.biz
-    -blingnews.com
-    -whale.to
-    -educate-yourself.org
-    -usawatchdog.com
-    -icr.org
-    -occupydemocrats.com
-    -thegoldwater.com
-    -lifesitenews.com
-    -americanprinciplesproject.org
-    -understandingthethreat.com
-    -bipartisanreport.com
-    -hannity.com
-    -altrighttv.com
-    -americangulag.org
-    -healthranger.com
-    -eutimes.net
-    -organicconsumers.org
-    -amren.com
-    -sputniknews.com
-    -populist.press
-    -welovetrump.com
-    -renewamerica.com
-    -theforbiddenknowledge.com
-    -climatechangedispatch.com
-    -coasttocoastam.com
-    -newswithviews.com
-    -other98.com
-    -gaia.com
-    -principia-scientific.com
-    -adflegal.org
-    -de.rt.com
-    -10news.one
-    -aim4truth.org
-    -alphanewsmn.com
-    -americanjournalreview.com
-    -americanpeopledaily.com
-    -australiannationalreview.com
-    -biggovernment.news
-    -billionbibles.org
-    -biodefense.com
-    -blackeyepolitics.com
-    -breakingfirst.com
-    -bugout.news
-    -campusinsanity.com
-    -cancer.news
-    -chlorellafactor.com
-    -christianaction.org
-    -climate.news
-    -climatism.blog
-    -cloverchronicle.com
-    -collapse.news
-    -conservativeammo.com
-    -conservativefreepress.com
-    -cosmicintelligenceagency.com
-    -counterthink.com
-    -curiousmindmagazine.com
-    -dailyexpose.co.uk
-    -darkjournalist.com
-    -dcdirtylaundry.com
-    -defiantamerica.com
-    -deplorablekel.com
-    -ecology.news
-    -electroverse.net
-    -en.newsner.com
-    -endthefed.org
-    -eugenics.news
-    -everylegalvote.com
-    -evil.news
-    -food.news
-    -fortherightnews.com
-    -freedom.news
-    -freedomadvocates.org
-    -freeworldnews.tv
-    -fury.news
-    -geoengineering.news
-    -geopol.institute
-    -globalinfotoday.com
-    -globalskywatch.com
-    -goodgopher.com
-    -govtslaves.com
-    -grainoftruth.ca
-    -greatamericandaily.com
-    -greatamericanrepublic.com
-    -greenvillegazette.com
-    -healingoracle.ch
-    -health.news
-    -healthrangerreport.com
-    -herbreference.com
-    -hoggwatch.com
-    -hsionline.com
-    -illicitinfo.com
-    -infogalactic.com
-    -ingredients.news
-    -iowaclimate.org
-    -israelislamandendtimes.com
-    -joebiden.news
-    -learntherisk.org
-    -leftcult.com
-    -leftexposed.org
-    -liberty.news
-    -libertyhangout.org
-    -libtards.news
-    -lifespa.com
-    -londonwebnews.com
-    -loonwatch.com
-    -mediafactwatch.com
-    -medicine.news
-    -mercola.com
-    -mixi.media
-    -myrightamerica.com
-    -nationalsecurity.news
-    -naturalmedicine.news
-    -naturalnewsradio.com
-    -naturalpedia.com
-    -navarroreport.com
-    -needtoknow.news
-    -newamericannews.com
-    -newsheist.com
-    -newsinsideout.com
-    -newspushed.com
-    -outragedpatriot.com
-    -oye.news
-    -pacificpundit.com
-    -pandemic.news
-    -pantsonfirenews.com
-    -patriotfires.com
-    -patrioticviralnews.com
-    -pcmustdie.com
-    -pdmj.org
-    -politifact.news
-    -pollution.news
-    -powderedwigsociety.com
-    -presscalifornia.com
-    -profam.org
-    -rapturenewsnetwork.com
-    -redwhiteandright.com
-    -researchantisemitism.ca
-    -returntonow.net
-    -righterway.com
-    -rightwing.news
-    -secondamendmentdaily.com
-    -smobserved.com
-    -sonsof1776.com
-    -space.news
-    -squawker.org
-    -staresattheworld.com
-    -stateofthenation.co
-    -stillnessinthestorm.com
-    -swampdrain.com
-    -syrianews.cc
-    -talknetwork.com
-    -thebeardedpatriot.com
-    -theconservativecentral.com
-    -thedailyconspiracy.com
-    -thefreedomtimes.com
-    -thehealthyamerican.org
-    -thehighwire.com
-    -thenationalpatriot.com
-    -theredelephants.com
-    -theunionjournal.com
-    -thoughtcrimeradio.net
-    -triggerreset.net
-    -trueviralnews.com
-    -truthmonitor.com
-    -truthuncensored.net
-    -twisted.news
-    -uniteamericafirst.com
-    -us24news.com
-    -usaisonline.com
-    -usareally.com
-    -usbacklash.org
-    -uslibertywire.com
-    -vaccineimpact.com
-    -vaccines.news
-    -viralhatch.com
-    -votefraud.news
-    -waynedupree.com
-    -whitehouse.news
-    -worlddoctorsalliance.com
-    -z3news.com
-    -zenith.news
-    -realjewnews.com
-    -rense.com
-    -returnofkings.com
-    -fr.sputniknews.com
-    -rt.com
-    -rinf.com
-    -lewrockwell.com
-    -discovery.org
-    -evolutionnews.org
-    -freedomproject.com
-    -principia-scientific.org
-    -southfront.org
-    -tfp.org
-    -vidmax.com
-    -prisonplanet.com
-    -abovetopsecret.com
-    -amtvmedia.com
-    -americanlookout.com
-    -cfact.org
-    -earthpulse.com
-    -glitch.news
-    -nationaleconomicseditorial.com
-    -pop.org
-    -stonecoldtruth.com
-    -strategic-culture.org
-    -supplementreference.com
-    -thebreakingnews.com
-    -rightwingnews.com
-    -creation.com
-    -globemagazine.com
-    -inforos.ru
-    -nutrientreference.com
-    -prepareforchange.net
-    -realnews24.com
-    -trump.news
-    -judicialwatch.org
-    -alternativenews.com
-    -americanpolicy.org
-    -christianscience.com
-    -clarionproject.org
-    -fairus.org
-    -frc.org
-    -hagmannreport.com
-    -iceagenow.info
-    -medicalmedium.com
-    -prophecytoday.com
-    -truthinmedia.com
-    -24jours.com
-    -thepublicdiscourse.com
-    -cei.org
-    -consumerwellness.org
-    -it.sputniknews.com
-    -thereligionofpeace.com
-    -trunews.com
-    -ukcolumn.org
-    -sgtreport.com
-    -breakingchristiannews.com
-    -foreverconscious.com
-    -wakeup-world.com
-    -worldaffairsbrief.com
-    -junkscience.com
-    -remnantnewspaper.com
-    -sustainablepulse.com
-    -escapeallthesethings.com
-    -corona-transition.org
-    -911truth.org
-    -savethemales.ca
-    -larouchepac.com
-    -ihealthtube.com
-    -carm.org
-    -thedailybell.com
-    -leftaction.com
-    -prophecynewswatch.com
-    -wallbuilders.com
-    -healingfoodreference.com
-    -ihatethemedia.com
-    -discoverthenetworks.org
-    -nationalrighttolifenews.org
-    -personalliberty.com
-    -thehornnews.com
-    -yaliberty.org
-    -thinkinghumanity.com
-    -2020electioncenter.com
-    -althealthworks.com
-    -americantruthtoday.com
-    -frankspeech.com
-    -goodsciencing.com
-    -jesusdaily.com
-    -mtonews.com
-    -patriotfetch.com
-    -protrumpnews.com
-    -rairfoundation.com
-    -theexpose.uk
-    -treason.news
-    -worldtribune.com
-    -goop.com
-    -meforum.org
-    -moonbattery.com
-    -dagospia.com
-    -focusonthefamily.com
-    -godandscience.org
-    -westonaprice.org
-    -4chan.org
-    -nrlc.org
-    -worldhealth.net
-    -rightsidenews.com
-    -avoiceformen.com
-    -thrivemovement.com
-    -gotquestions.org
-    -survivalblog.com
-    -thespectator.info
+    - afn.net
+    - alphanews.org
+    - altleft.news
+    - americanlibertyemail.com
+    - amg-news.com
+    - beachbroadcastnews.com
+    - bonsens.info
+    - breakingnews247.net
+    - cnnsofake.news
+    - dailymail.co.uk
+    - defconnews.com
+    - defendingtherepublic.org
+    - elizabethjohnston.org
+    - homevaccineeducationnetwork.com
+    - jedanews.com
+    - mainstreamfakemedia.com
+    - micdroppolitics.com
+    - nationalinsiders.com
+    - newsexaminer.net
+    - realconservativesunite.com
+    - reformedmedia.net
+    - rodong.rep.kp
+    - roguereview.net
+    - sonsoflibertymedia.com
+    - thefullertoninformer.com
+    - thepuristonline.com
+    - theragingpatriot.org
+    - vaccinesafety.info
+    - westernjournal.com/commentary
+    - worldgreynews.com
+    - worldlifestyle.com
+    - 12minutos.com
+    - 79days.news
+    - anyavien.com
+    - askingangels.com
+    - beckernews.com
+    - conservativebeaver.com
+    - conspiracydailyupdate.com
+    - dailyheadlines.net
+    - dailyoccupation.com
+    - dailysurge.com
+    - dataasylum.com
+    - davidharrisjr.com
+    - distributednews.com
+    - echocheck.org
+    - empireherald.com
+    - en-volve.com
+    - explainlife.com
+    - ilovemyfreedom.org
+    - lindelltv.com
+    - medicalkidnap.com
+    - newswars.com
+    - politicsonline.net
+    - rightwingtribune.com
+    - sheepkillers.com
+    - technocracy.news
+    - thedcpatriot.com
+    - thelaughclub.net
+    - themillenniumreport.com
+    - therundownlive.com
+    - thetruereporter.com
+    - thewashingtonstandard.com
+    - thinkamericana.com
+    - torontotoday.net
+    - uschronicle.com
+    - vaccinesrevealed.com
+    - vaxxter.com
+    - viralnewsnetwork.net
+    - yesimright.com
+    - truepundit.com
+    - conservativedailypost.com
+    - themindunleashed.com
+    - lesmoutonsrebelles.com
+    - digifection.com
+    - gellerreport.com
+    - patriotfront.us
+    - freedomdaily.com
+    - christiansfortruth.com
+    - vactruth.com
+    - redstatewatcher.com
+    - now8news.com
+    - dailybuzzlive.com
+    - bestnewshere.com
+    - newsfeedhunter.com
+    - truthandaction.org
+    - naturalnews.com
+    - actionnews3.com
+    - awarenessact.com
+    - bigleaguepolitics.com
+    - neonnettle.com
+    - getholistichealth.com
+    - newsview.gr
+    - stateofthenation2012.com
+    - newspunch.com
+    - barenakedislam.com
+    - notallowedto.com
+    - thecommonsenseshow.com
+    - corbettreport.com
+    - fellowshipoftheminds.com
+    - ripostelaique.com
+    - 100percentfedup.com
+    - greatreject.org
+    - cityworldnews.com
+    - prntly.com
+    - summit.news
+    - dcgazette.com
+    - bb4sp.com
+    - illuminatiwatcher.com
+    - redice.tv
+    - infowars.com
+    - thegatewaypundit.com
+    - russia-insider.com
+    - banned.video
+    - csglobe.com
+    - theamericanmirror.com
+    - wakingtimes.com
+    - patriots4truth.org
+    - healthnutnews.com
+    - healthy-holistic-living.com
+    - informationliberation.com
+    - brandnewtube.com
+    - newstarget.com
+    - clashdaily.com
+    - santeplusmag.com
+    - cap-news.com
+    - beforeitsnews.com
+    - allnewspipeline.com
+    - friatider.se
+    - realclimatescience.com
+    - revolutionradio.org
+    - bluntforcetruth.com
+    - swarajyamag.com
+    - naturalnewsblogs.com
+    - thelibertybeacon.com
+    - rumble.com
+    - sott.net
+    - shoebat.com
+    - djhjmedia.com
+    - zerohedge.com
+    - theconservativetreehouse.com
+    - activistpost.com
+    - davidicke.com
+    - childrenshealthdefense.org
+    - bitchute.com
+    - qanon.pub
+    - disclose.tv
+    - hangthebankers.com
+    - globalresearch.ca
+    - vigilantcitizen.com
+    - brighteon.com
+    - americasfreedomfighters.com
+    - usasupreme.com
+    - conservativepost.com
+    - thetruthseeker.co.uk
+    - rushlimbaugh.com
+    - healthimpactnews.com
+    - notrickszone.com
+    - worldtruth.tv
+    - pravdareport.com
+    - lifenews.com
+    - prageru.com
+    - sickchirpse.com
+    - teaparty.org
+    - parler.com
+    - frontpagemag.com
+    - thetruthaboutcancer.com
+    - dailyhealthpost.com
+    - afa.net
+    - americanthinker.com
+    - thefederalistpapers.org
+    - cnsnews.com
+    - madworldnews.com
+    - nationalfile.com
+    - nationalenquirer.com
+    - blackgenocide.org
+    - americasfrontlinedoctors.org
+    - libertyvideos.org
+    - godlikeproductions.com
+    - nowtheendbegins.com
+    - intellihub.com
+    - patribotics.blog
+    - aapsonline.org
+    - thinkingmomsrevolution.com
+    - greenmedinfo.com
+    - canadafreepress.com
+    - dcclothesline.com
+    - geoengineeringwatch.org
+    - pakalertpress.com
+    - britainfirst.org
+    - americamaxnews.com
+    - americanconservativemovement.com
+    - censored.news
+    - free-speechfront.info
+    - freedomfirstnetwork.com
+    - merica1st.com
+    - newshourfirst.com
+    - npr.news
+    - personalinterpretation.com
+    - political-discussion.com
+    - randpaul.news
+    - speech-point.com
+    - supportisraelnow.com
+    - thecoloradoherald.com
+    - thepatriotnation.net
+    - thetruthvoice.net
+    - thevaccinereaction.org
+    - x22report.com
+    - skeptiko.com
+    - conservativeplaylist.com
+    - uncoverdc.com
+    - noqreport.com
+    - gnews.org
+    - acallforanuprising.com
+    - donaldjtrump.com
+    - gettr.com
+    - redvoicemedia.com
+    - halturnerradioshow.com
+    - humansarefree.com
+    - wnd.com
+    - covid19criticalcare.com
+    - dailystormer.su
+    - realfarmacy.com
+    - collective-evolution.com
+    - natall.com
+    - fromthetrenchesworldreport.com
+    - breaking911.com
+    - snopes.news
+    - unclesamsmisguidedchildren.com
+    - whatreallyhappened.com
+    - thefreethoughtproject.com
+    - infiniteunknown.net
+    - knowledgeoftoday.org
+    - usahitman.com
+    - vdare.com
+    - theautomaticearth.com
+    - assassinationscience.com
+    - oathkeepers.org
+    - altermedzentrum.com
+    - science.news
+    - snanews.de
+    - tpusa.com
+    - stormcloudsgathering.com
+    - whydontyoutrythis.com
+    - nationalvanguard.org
+    - americansfortruth.com
+    - theduran.com
+    - americanfreepress.net
+    - concernedwomen.org
+    - oann.com
+    - stormfront.org
+    - en.metapedia.org
+    - veteranstoday.com
+    - jesus-is-savior.com
+    - wattsupwiththat.com
+    - freedomainradio.com
+    - healthyfoodhouse.com
+    - gulagbound.com
+    - nvic.org
+    - sanevax.org
+    - shtfplan.com
+    - takimag.com
+    - trueactivist.com
+    - thealternativedaily.com
+    - thedailysheeple.com
+    - progressivestoday.com
+    - unz.com
+    - heartland.org
+    - libertybell.com
+    - rsbnetwork.com
+    - thetruedefender.com
+    - presstv.com
+    - doctors4covidethics.org
+    - anonhq.com
+    - newnation.org
+    - ihr.org
+    - gmo.news
+    - therightstuff.biz
+    - blingnews.com
+    - whale.to
+    - educate-yourself.org
+    - usawatchdog.com
+    - icr.org
+    - occupydemocrats.com
+    - thegoldwater.com
+    - lifesitenews.com
+    - americanprinciplesproject.org
+    - understandingthethreat.com
+    - bipartisanreport.com
+    - hannity.com
+    - altrighttv.com
+    - americangulag.org
+    - healthranger.com
+    - eutimes.net
+    - organicconsumers.org
+    - amren.com
+    - sputniknews.com
+    - populist.press
+    - welovetrump.com
+    - renewamerica.com
+    - theforbiddenknowledge.com
+    - climatechangedispatch.com
+    - coasttocoastam.com
+    - newswithviews.com
+    - other98.com
+    - gaia.com
+    - principia-scientific.com
+    - adflegal.org
+    - de.rt.com
+    - 10news.one
+    - aim4truth.org
+    - alphanewsmn.com
+    - americanjournalreview.com
+    - americanpeopledaily.com
+    - australiannationalreview.com
+    - biggovernment.news
+    - billionbibles.org
+    - biodefense.com
+    - blackeyepolitics.com
+    - breakingfirst.com
+    - bugout.news
+    - campusinsanity.com
+    - cancer.news
+    - chlorellafactor.com
+    - christianaction.org
+    - climate.news
+    - climatism.blog
+    - cloverchronicle.com
+    - collapse.news
+    - conservativeammo.com
+    - conservativefreepress.com
+    - cosmicintelligenceagency.com
+    - counterthink.com
+    - curiousmindmagazine.com
+    - dailyexpose.co.uk
+    - darkjournalist.com
+    - dcdirtylaundry.com
+    - defiantamerica.com
+    - deplorablekel.com
+    - ecology.news
+    - electroverse.net
+    - en.newsner.com
+    - endthefed.org
+    - eugenics.news
+    - everylegalvote.com
+    - evil.news
+    - food.news
+    - fortherightnews.com
+    - freedom.news
+    - freedomadvocates.org
+    - freeworldnews.tv
+    - fury.news
+    - geoengineering.news
+    - geopol.institute
+    - globalinfotoday.com
+    - globalskywatch.com
+    - goodgopher.com
+    - govtslaves.com
+    - grainoftruth.ca
+    - greatamericandaily.com
+    - greatamericanrepublic.com
+    - greenvillegazette.com
+    - healingoracle.ch
+    - health.news
+    - healthrangerreport.com
+    - herbreference.com
+    - hoggwatch.com
+    - hsionline.com
+    - illicitinfo.com
+    - infogalactic.com
+    - ingredients.news
+    - iowaclimate.org
+    - israelislamandendtimes.com
+    - joebiden.news
+    - learntherisk.org
+    - leftcult.com
+    - leftexposed.org
+    - liberty.news
+    - libertyhangout.org
+    - libtards.news
+    - lifespa.com
+    - londonwebnews.com
+    - loonwatch.com
+    - mediafactwatch.com
+    - medicine.news
+    - mercola.com
+    - mixi.media
+    - myrightamerica.com
+    - nationalsecurity.news
+    - naturalmedicine.news
+    - naturalnewsradio.com
+    - naturalpedia.com
+    - navarroreport.com
+    - needtoknow.news
+    - newamericannews.com
+    - newsheist.com
+    - newsinsideout.com
+    - newspushed.com
+    - outragedpatriot.com
+    - oye.news
+    - pacificpundit.com
+    - pandemic.news
+    - pantsonfirenews.com
+    - patriotfires.com
+    - patrioticviralnews.com
+    - pcmustdie.com
+    - pdmj.org
+    - politifact.news
+    - pollution.news
+    - powderedwigsociety.com
+    - presscalifornia.com
+    - profam.org
+    - rapturenewsnetwork.com
+    - redwhiteandright.com
+    - researchantisemitism.ca
+    - returntonow.net
+    - righterway.com
+    - rightwing.news
+    - secondamendmentdaily.com
+    - smobserved.com
+    - sonsof1776.com
+    - space.news
+    - squawker.org
+    - staresattheworld.com
+    - stateofthenation.co
+    - stillnessinthestorm.com
+    - swampdrain.com
+    - syrianews.cc
+    - talknetwork.com
+    - thebeardedpatriot.com
+    - theconservativecentral.com
+    - thedailyconspiracy.com
+    - thefreedomtimes.com
+    - thehealthyamerican.org
+    - thehighwire.com
+    - thenationalpatriot.com
+    - theredelephants.com
+    - theunionjournal.com
+    - thoughtcrimeradio.net
+    - triggerreset.net
+    - trueviralnews.com
+    - truthmonitor.com
+    - truthuncensored.net
+    - twisted.news
+    - uniteamericafirst.com
+    - us24news.com
+    - usaisonline.com
+    - usareally.com
+    - usbacklash.org
+    - uslibertywire.com
+    - vaccineimpact.com
+    - vaccines.news
+    - viralhatch.com
+    - votefraud.news
+    - waynedupree.com
+    - whitehouse.news
+    - worlddoctorsalliance.com
+    - z3news.com
+    - zenith.news
+    - realjewnews.com
+    - rense.com
+    - returnofkings.com
+    - fr.sputniknews.com
+    - rt.com
+    - rinf.com
+    - lewrockwell.com
+    - discovery.org
+    - evolutionnews.org
+    - freedomproject.com
+    - principia-scientific.org
+    - southfront.org
+    - tfp.org
+    - vidmax.com
+    - prisonplanet.com
+    - abovetopsecret.com
+    - amtvmedia.com
+    - americanlookout.com
+    - cfact.org
+    - earthpulse.com
+    - glitch.news
+    - nationaleconomicseditorial.com
+    - pop.org
+    - stonecoldtruth.com
+    - strategic-culture.org
+    - supplementreference.com
+    - thebreakingnews.com
+    - rightwingnews.com
+    - creation.com
+    - globemagazine.com
+    - inforos.ru
+    - nutrientreference.com
+    - prepareforchange.net
+    - realnews24.com
+    - trump.news
+    - judicialwatch.org
+    - alternativenews.com
+    - americanpolicy.org
+    - christianscience.com
+    - clarionproject.org
+    - fairus.org
+    - frc.org
+    - hagmannreport.com
+    - iceagenow.info
+    - medicalmedium.com
+    - prophecytoday.com
+    - truthinmedia.com
+    - 24jours.com
+    - thepublicdiscourse.com
+    - cei.org
+    - consumerwellness.org
+    - it.sputniknews.com
+    - thereligionofpeace.com
+    - trunews.com
+    - ukcolumn.org
+    - sgtreport.com
+    - breakingchristiannews.com
+    - foreverconscious.com
+    - wakeup-world.com
+    - worldaffairsbrief.com
+    - junkscience.com
+    - remnantnewspaper.com
+    - sustainablepulse.com
+    - escapeallthesethings.com
+    - corona-transition.org
+    - 911truth.org
+    - savethemales.ca
+    - larouchepac.com
+    - ihealthtube.com
+    - carm.org
+    - thedailybell.com
+    - leftaction.com
+    - prophecynewswatch.com
+    - wallbuilders.com
+    - healingfoodreference.com
+    - ihatethemedia.com
+    - discoverthenetworks.org
+    - nationalrighttolifenews.org
+    - personalliberty.com
+    - thehornnews.com
+    - yaliberty.org
+    - thinkinghumanity.com
+    - 2020electioncenter.com
+    - althealthworks.com
+    - americantruthtoday.com
+    - frankspeech.com
+    - goodsciencing.com
+    - jesusdaily.com
+    - mtonews.com
+    - patriotfetch.com
+    - protrumpnews.com
+    - rairfoundation.com
+    - theexpose.uk
+    - treason.news
+    - worldtribune.com
+    - goop.com
+    - meforum.org
+    - moonbattery.com
+    - dagospia.com
+    - focusonthefamily.com
+    - godandscience.org
+    - westonaprice.org
+    - 4chan.org
+    - nrlc.org
+    - worldhealth.net
+    - rightsidenews.com
+    - avoiceformen.com
+    - thrivemovement.com
+    - gotquestions.org
+    - survivalblog.com
+    - thespectator.info
   condition: 1 of strings
