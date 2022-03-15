@@ -3,5 +3,5 @@ description: Find accounts with suspicious handles containing a series of number
 author: clementbriens
 detection:
   re_screen_name:
-    - "[0-9]{2,8}"
+    - "[0-9]{5,8}"
   condition: all of re_screen_name
