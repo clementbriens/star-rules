@@ -1,0 +1,8 @@
+title: Recent Accounts 2021
+description: Find accounts created in 2021
+author: clementbriens
+detection:
+  account_date:
+    - after 2020/01/01
+    - before 2021/01/01
+  condition:  all of account_date

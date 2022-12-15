@@ -1,0 +1,6 @@
+title: Default profile
+description: Find accounts with default profile
+author: clementbriens
+detection:
+  default_profile: True
+  condition: all of default_profile_image

@@ -1,0 +1,9 @@
+title: Very High volume accounts
+description: Find accounts that have a high volume of tweets- DFRLabs Benchmark
+author: clementbriens
+detection:
+  tweets_per_day:
+    - min 72
+  tweets_per_week:
+    - min 360
+  condition: all of tweets_per_day or all of tweets_per_week

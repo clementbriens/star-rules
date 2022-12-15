@@ -1,0 +1,7 @@
+title: High follower accounts
+description: Find accounts that have a high number of followers
+author: clementbriens
+detection:
+  account_followers:
+    - min 10000
+  condition: all of account_followers

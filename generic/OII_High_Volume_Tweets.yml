@@ -1,0 +1,9 @@
+title: Very High volume accounts
+description: Find accounts that have a high volume of tweets- OII Benchmark
+author: clementbriens
+detection:
+  tweets_per_day:
+    - min 50
+  tweets_per_week:
+    - min 350
+  condition: all of tweets_per_day or all of tweets_per_week

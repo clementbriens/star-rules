@@ -1,7 +1,0 @@
-title: Suspicious account handle
-description: Find accounts with suspicious handles containing a series of numbers (e.g. John123456)
-author: clementbriens
-detection:
-  re_screen_name:
-    - "[0-9]{5,8}"
-  condition: all of re_screen_name
